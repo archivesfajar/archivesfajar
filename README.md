@@ -19,9 +19,9 @@
    - Learn about Customers, their Behavior, Characteristics, Expectations, and what Audiences need 
    - Increase Customer Engagement, Conversions, and Sales
    - Convey Brand Value to Audiences 
-#### 2. [PT Sumber Alfaria Trijaya, Tbk - Alfamart](https://alfamart.co.id/) | Branch Maintenance Support | Palembang `2021-2022`
-   - Develop Web / Mobile Application Programs 
-   - Maintenance Project Client
+#### 2. [PT Sumber Alfaria Trijaya, Tbk - Alfamart](https://alfamart.co.id/) | Crew Store | Palembang `2022-2023`
+   - Serving customers who will make payments
+   - Recap sales money for each shift
    - Analyze and Create Database Structure
 ---
 
