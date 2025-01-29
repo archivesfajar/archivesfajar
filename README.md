@@ -5,11 +5,6 @@
 - 👯 I’m looking to collaborate as Data Analyst
 - 📫 How to reach me: archivesfajar@gmail.com
 
-## Education:
-
-#### 1. [SMK N 1 Kayu Agung](https://www.smkn1kayuagung.sch.id/) | Computer Network Engineering | Kayu Agung `2017-2020`
-   - Chief of School Literacy Movement Program
-
 ## Work Experience:
 #### 1. [Solana Monkey Business](https://solanamonkey.business/) | Community Manager | WFH `May'2022 - Now`
    - Build a relationship with the Audience
@@ -19,11 +14,6 @@
    - Learn about Customers, their Behavior, Characteristics, Expectations, and what Audiences need 
    - Increase Customer Engagement, Conversions, and Sales
    - Convey Brand Value to Audiences 
-#### 2. [PT Sumber Alfaria Trijaya, Tbk - Alfamart](https://alfamart.co.id/) | Crew Store | Palembang `2022-2023`
-   - Serving customers who will make payments
-   - Recap sales money for each shift
-   - Analyze and Create Database Structure
----
 
 ### Languages and Tools:
 
